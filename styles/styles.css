@@ -155,7 +155,13 @@ body {
 .organization-courses {
   font-weight: 700;
   color: var(--accent-color);
+  text-decoration: none;
 }
+
+.organization-courses:hover {
+  color: var(--sydebar-text-color);
+}
+
 .period,
 .period-bg {
   font-weight: 400;
