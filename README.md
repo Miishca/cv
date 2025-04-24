@@ -30,7 +30,7 @@ Feel free to reach out for collaboration or opportunities:
 - 💬 **Telegram**: [@Mikeevo](https://t.me/Mikeevo)
 
 ## 🙌 Acknowledgments
-- Thanks to [Mate Academy](https://mate.academy/) and [EPAM Systems](https://www.epam.com/) for their excellent frontend courses.
+- Thanks to [Mate Academy](https://mate.academy/en/) and [EPAM Systems](https://www.epam.com/) for their excellent frontend courses.
 - Fonts provided by [Google Fonts](https://fonts.google.com/).
 
 Built by Mykhailo Ivoniuk
